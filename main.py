@@ -24,4 +24,4 @@ while line != "":
     total = total + senior_price
 
   line = input("Enter the age of the guest (blank to finish): ")
-  print(f"The total for that group is {total:.2f}")
+print(f"The total for that group is {total:.2f}")
